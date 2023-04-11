@@ -41,6 +41,15 @@ h3{
     display: inline;
     font-size: 14px;
 }
+.cabec3 {
+    position: absolute;
+width: 1452px;
+height: 100px;
+left: -11px;
+top: 498px;
+
+background: linear-gradient(180deg, rgba(0, 0, 0, 0.39) 0%, rgba(0, 0, 0, 0) 83%);
+}
 
 .linha {
     font-family: 'Lucida Sans';
@@ -59,4 +68,15 @@ h3{
 
 .itens {
     background-color: rgb(211, 204, 174);
+}
+
+.cabec4 {
+    position: absolute;
+width: 1440px;
+height: 198px;
+left: calc(50% - 1440px/2 + 1440.5px);
+top: 1024px;
+
+background: linear-gradient(180deg, #212121 -2.02%, rgba(226, 213, 236, 0) 97.98%);
+transform: rotate(-180deg);
 }
