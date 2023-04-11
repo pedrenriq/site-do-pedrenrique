@@ -1,11 +1,36 @@
+.cabec1{
+
+position: absolute;
+width: 1441px;
+height: 122px;
+left: 0px;
+top: 0px;
+
+background: linear-gradient(180deg, #252525 0%, rgba(226, 213, 236, 0) 100%);
+}
+.cabec2{
+    position: absolute;
+    width: 1439px;
+    height: 99px;
+    left: 1441px;
+    top: 172px;
+    
+    background: linear-gradient(185.39deg, rgba(0, 0, 0, 0.49) 4.23%, rgba(21, 21, 21, 0) 75.3%);
+    transform: rotate(-180deg);
+}
+
+.img3{
+    position: absolute;
+width: 354px;
+height: 362px;
+left: 0px;
+top: 136px;
+
+}
+
+
 body{
-    background-color: rgb(160, 149, 100);
-    font-family: 'Lucida Sans';
-    font-size: small;
-    color: #fdfdfd;
-    text-align: center;
-    display: inline;
-    font-size: 14px;
+    background: #F5F5F5;
 }
 
 h3{
