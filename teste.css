@@ -1,0 +1,38 @@
+.menu{
+    position: absolute;
+    width: 1440px;
+    height: 60px;
+    left: 0px;
+    top: 0px;
+
+    background: #DCDCDD;
+}
+
+.menu-texto{
+    
+position: absolute;
+width: 309px;
+height: 49px;
+left: 1297px;
+top: 11px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 39px;
+
+color: #C0C0C0;
+}
+
+.cabecalho {
+    
+position: absolute;
+width: 1440px;
+height: 291px;
+left: 0px;
+top: 57px;
+
+background: #C5C3C6;
+}
+
