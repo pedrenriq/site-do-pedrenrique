@@ -23,6 +23,13 @@
     background: #C5C3C6;
 }
 
+.cabecalho-img {
+    width: 260px;
+    height: 260px;
+    flex-shrink: 0;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+}
+
 .cabecalho-text {
     display: flex;
     width: 1055px;
