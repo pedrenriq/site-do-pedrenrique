@@ -45,6 +45,7 @@
 .corpo {
     width: 1440px;
     height: 608px;
+    grid-template-columns: 30% 30% 30%;
     flex-shrink: 0;
     background: #4C5C68;
 }
