@@ -27,10 +27,11 @@
     width: 260px;
     height: 260px;
     flex-shrink: 0;
-    margin-left: 21px;
-    margin-right: 1159;
-    margin-top: 72;
-    margin-bottom: 692;
+    left: 21px;
+    right: 1159;
+    top: 72;
+    bottom: 692;
+    position: absolute;
     background: url(<path-to-image>), lightgray 50% / cover no-repeat;
 }
 
@@ -50,6 +51,8 @@
     width: 1440px;
     height: 608px;
     flex-shrink: 0;
+    grid-template-columns: 30% 30% 30%;
+    position: absolute;
     background: #4C5C68;
 }
 
@@ -57,10 +60,10 @@
         width: 200px;
         height: 200px;
         flex-shrink: 0;
-        margin-left: 181;
-        margin-right: 1059;
-        margin-top: 452;
-        margin-bottom: 372;
+        left: 181;
+        right: 1059;
+        top: 452;
+        bottom: 372;
         background: url(<path-to-image>), lightgray -137.178px 1.168px / 169.456% 100% no-repeat;
     }
 
