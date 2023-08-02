@@ -27,6 +27,10 @@
     width: 260px;
     height: 260px;
     flex-shrink: 0;
+    left: 21px;
+    right: 1159;
+    top: 72;
+    bottom: 692;
     background: url(<path-to-image>), lightgray 50% / cover no-repeat;
 }
 
