@@ -45,10 +45,51 @@
 .corpo {
     width: 1440px;
     height: 608px;
-    grid-template-columns: 30% 30% 30%;
     flex-shrink: 0;
     background: #4C5C68;
 }
+
+    .imagem1 {
+        width: 200px;
+        height: 200px;
+        flex-shrink: 0;
+        background: url(<path-to-image>), lightgray -137.178px 1.168px / 169.456% 100% no-repeat;
+    }
+
+    .imagem2 {
+        width: 200px;
+        height: 200px;
+        flex-shrink: 0;
+        background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+    }
+
+    .imagem3 {
+        width: 200px;
+        height: 200px;
+        flex-shrink: 0;
+        background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+    }
+
+    .imagem4 {
+        width: 200px;
+        height: 200px;
+        flex-shrink: 0;
+        background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+    }
+
+    .imagem5 {
+        width: 200px;
+        height: 200px;
+        flex-shrink: 0;
+        fill: url(<path-to-image>), lightgray 50% / cover no-repeat;
+    }
+
+    .imagem6 {
+        width: 200px;
+        height: 200px;
+        flex-shrink: 0;
+        background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+    }
 
 .corpo-text {
     display: flex;
@@ -68,6 +109,20 @@
     flex-shrink: 0;
     background: #46494C;
 }
+
+    .rodape-img1 {
+        width: 72px;
+        height: 72px;
+        flex-shrink: 0;
+        background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+    }
+
+    .rodape-img2 {
+        width: 174px;
+        height: 153px;
+        flex-shrink: 0;
+        background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+    }
 
 .rodape-text {
     display: flex;
