@@ -71,10 +71,10 @@
         width: 200px;
         height: 200px;
         flex-shrink: 0;
-        margin-left: 620;
-        margin-right: 620;
-        margin-top: 452;
-        margin-bottom: 372;
+        left: 620;
+        right: 620;
+        top: 452;
+        bottom: 372;
         background: url(<path-to-image>), lightgray 50% / cover no-repeat;
     }
 
@@ -82,10 +82,10 @@
         width: 200px;
         height: 200px;
         flex-shrink: 0;
-        margin-left: 1059;
-        margin-right: 181;
-        margin-top: 452;
-        margin-bottom: 372;
+        left: 1059;
+        right: 181;
+        top: 452;
+        bottom: 372;
         background: url(<path-to-image>), lightgray 50% / cover no-repeat;
     }
 
@@ -93,10 +93,10 @@
         width: 200px;
         height: 200px;
         flex-shrink: 0;
-        margin-left: 181;
-        margin-right: 1059;
-        margin-top: 718;
-        margin-bottom: 106;
+        left: 181;
+        right: 1059;
+        top: 718;
+        bottom: 106;
         background: url(<path-to-image>), lightgray 50% / cover no-repeat;
     }
 
@@ -104,10 +104,10 @@
         width: 200px;
         height: 200px;
         flex-shrink: 0;
-        margin-left: 620;
-        margin-right: 620;
-        margin-top: 718;
-        margin-bottom: 106;
+        left: 620;
+        right: 620;
+        top: 718;
+        bottom: 106;
         fill: url(<path-to-image>), lightgray 50% / cover no-repeat;
     }
 
@@ -115,10 +115,10 @@
         width: 200px;
         height: 200px;
         flex-shrink: 0;
-        margin-left: 1059;
-        margin-right: 181;
-        margin-top: 718;
-        margin-bottom: 106;
+        left: 1059;
+        right: 181;
+        top: 718;
+        bottom: 106;
         background: url(<path-to-image>), lightgray 50% / cover no-repeat;
     }
 
@@ -145,9 +145,9 @@
         width: 72px;
         height: 72px;
         flex-shrink: 0;
-        margin-left: -4;
-        margin-right: 1270;
-        margin-top: 817;
+        left: -4;
+        right: 1270;
+        top: 817;
         background: url(<path-to-image>), lightgray 50% / cover no-repeat;
     }
 
@@ -155,10 +155,10 @@
         width: 174px;
         height: 153px;
         flex-shrink: 0;
-        margin-left: 489;
-        margin-right: 879;
-        margin-top: 954;
-        margin-bottom: -2;
+        left: 489;
+        right: 879;
+        top: 954;
+        bottom: -2;
         background: url(<path-to-image>), lightgray 50% / cover no-repeat;
     }
 
